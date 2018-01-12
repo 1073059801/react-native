@@ -3,6 +3,10 @@ import Detail from "./Screens/Detail/Detail"
 import Cart from "./Screens/Cart/Cart"
 import SortList from "./Screens/SortList/SortList"
 import User from "./Screens/User/User"
+import User from "./Screens/User/User"
+import User from "./Screens/User/User"
+import User from "./Screens/User/User"
+
 
 
 import { StackNavigator,TabNavigator  } from "react-navigation"
